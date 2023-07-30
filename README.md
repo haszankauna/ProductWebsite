@@ -1,5 +1,4 @@
 # Building and Deploying an AI-Powered 3D Website in React 
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
 
 ## Introduction
 We have seen over a couple of years how integrating 3D animations into websites makes the website user friendly and importantly gives the user an experience. An example is the apple website in which every user has an experience navigating the webpage. Which makes it part of the experience.
